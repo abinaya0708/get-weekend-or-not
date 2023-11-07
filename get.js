@@ -9,7 +9,7 @@ console.log(day);
 
 document.write("Find today is Weekend or not:---"+"<br>");
 
-if(day==6||day==7){
+if(day==0||day==6){
 	console.log("Today is Weekend");
 	
 	document.write("Today is Weekend"+"<br>");
